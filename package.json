@@ -1,5 +1,5 @@
 {
-  "name": "@jelodee/bonjour",
+  "name": "bonjour",
   "version": "3.5.1",
   "description": "A Bonjour/Zeroconf implementation in pure JavaScript",
   "main": "index.js",
